@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FirstTestFile" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-16T10:50:08" hostname="MacBook-Pro" time="0.033">
+  <properties/>
+  <testcase name="My test[0]" classname="FirstTestFile" time="0.032"/>
+  <testcase name="My test[1]" classname="FirstTestFile" time="0.001"/>
+  <testcase name="My test[2]" classname="FirstTestFile" time="0.0"/>
+  <system-out><![CDATA[setupSpec is running now
+setup is running now
+cleanup is running now
+setup is running now
+cleanup is running now
+setup is running now
+cleanup is running now
+cleanupSpec is running now
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
