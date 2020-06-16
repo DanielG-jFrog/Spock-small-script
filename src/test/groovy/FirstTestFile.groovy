@@ -36,9 +36,9 @@ class FirstTestFile extends Specification {
 
         where:
         // Run with multiple data
-        a | b | expectedResult
-        10 | 3 | 13
-        7 | 4 | 11
-        2 | 0 | 2
+        a | b || expectedResult
+        10 | 3 || 13
+        7 | 4 || 11
+        2 | 0 || 2
     }
 }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MathSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-16T11:10:58" hostname="MacBook-Pro" time="0.065">
+  <properties/>
+  <testcase name="maximum of two numbers[0]" classname="MathSpec" time="0.064"/>
+  <testcase name="maximum of two numbers[1]" classname="MathSpec" time="0.0"/>
+  <testcase name="maximum of two numbers[2]" classname="MathSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
